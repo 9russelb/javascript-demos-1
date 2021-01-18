@@ -11,3 +11,9 @@ function greetUser() {
 }
 //calling the function with no arguments.
 greetUser();
+
+//this is a function with no paramenters and no statements.
+function fun() {}
+
+//calling this function, of course, does nothing
+fun()
